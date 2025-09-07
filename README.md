@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection Project
-This project involved building a machine learning system to identify fraudulent credit card transactions.
+This project involved building a machine learning system to identify fraudulent credit card transactions using the [Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  kaggle dataset.
 
   * **Key Challenge:** The dataset was highly imbalanced, with only 0.17% of transactions being fraudulent.
 
